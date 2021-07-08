@@ -13,7 +13,9 @@ Faça esse curso de HTML e CSS e:
 
 Para este curso, precisaremos instalar algumas ferramentas — caso você ainda não tenha feito isso anteriormente:
 
-NodeJS: se você já fez outros cursos dessa formação, o NodeJS já deve estar instalado. você pode conferir com o comando 
-````node --version ou node -v ```` no terminal. Caso retorne um número de versão, como por exemplo, v10.16.0, o NodeJS já está instalado. Caso precise instalar, os links estão na página oficial do NodeJS.
+##### NodeJS: 
+Se você já fez outros cursos dessa formação, o NodeJS já deve estar instalado. você pode conferir com o comando 
+````node --version ou node -v ```` no terminal. Caso retorne um número de versão, como por exemplo, v10.16.0, o NodeJS já está instalado. Caso precise instalar, os links estão na [página oficial do NodeJS](https://nodejs.org/en/download/).
 
-Visual Studio Code: caso precise instalar, os links estão na página do Visual Studio.
+##### Visual Studio Code: 
+Caso precise instalar, os links estão na [página do Visual Studio](https://code.visualstudio.com/download).
